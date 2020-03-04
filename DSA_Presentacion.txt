@@ -1,0 +1,10 @@
+1-GESTIÓN
+2-HERRAMIENTAS
+	IDE
+		INTELL I5	
+		ANDROID STUDIO
+		UNITY
+	GIT
+	TDD (Desarrollo dirigido por test) JUNIT, MAVEN
+		primero test luego desarrollo: Creando una calculadora plantearse primero que pasa si divido por cero y tal y luego desarrollar la función
+3-ORIENTACIÓN A OBJETOS, PATRONES DE DISEÑO, BASES DE DATOS 
